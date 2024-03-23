@@ -16,7 +16,8 @@ Creating Software to manage an hotel System (Starting from Dashboard to Bookings
 
 ### You Can Find the WebSite From  This Link:
 
-        [The Web App]([https://linktodocumentation](https://hotel-seer.netlify.app/))
+[The Web App]([https://choosealicense.com/licenses/mit/](https://hotel-seer.netlify.app/))
+
 
 
 
